@@ -15,8 +15,8 @@ To write a python program to sort the first half of the list using merge sort.
 ```
 /*
 Program to implement Merge Sort
-Developed by: Yuva Krishna K
-Register Number:  212222110056
+Developed by: AMURTHA VAAHINI KN
+Register Number:  212222240008
 */
 
 def mergeSort(arr):
